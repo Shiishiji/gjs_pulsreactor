@@ -1,0 +1,8 @@
+{
+  "name": "PulseReactor",
+  "description": "Connect to smartband and react to your pulse",
+  "uuid": "123d682e-2552-43fa-9446-6badf70a90f4@shiishiji.github.io",
+  "shell-version": [
+    "42"
+  ]
+}
